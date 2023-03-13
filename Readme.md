@@ -3,3 +3,5 @@
 **Solution Links:**
 
 - [Module 2 Solution](https://amanrr234.github.io/Coursera-JHU-HTML-CSS-Javascript/Assignments/Module-2/site/index.html)
+
+- [Module 3 Solution](https://amanrr234.github.io/Coursera-JHU-HTML-CSS-Javascript/Assignments/Module-3/index-mod3.html)
